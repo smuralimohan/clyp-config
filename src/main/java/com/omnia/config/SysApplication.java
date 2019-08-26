@@ -1,13 +1,13 @@
-package com.omnia.clypconfig;
+package com.omnia.config;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ClypConfigApplication {
+public class SysApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ClypConfigApplication.class, args);
+		SpringApplication.run(SysApplication.class, args);
 	}
 
 }

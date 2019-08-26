@@ -126,7 +126,6 @@ DROP TABLE IF EXISTS public.role;
 
 DROP TABLE IF EXISTS public.rating_scale;
 
-
 DROP TABLE IF EXISTS public.sysconfig;
 DROP TABLE IF EXISTS public.sysconfig_audit;
 
